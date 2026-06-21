@@ -10,7 +10,7 @@ function Section({ title, children }) {
     <section className="py-20 px-8">
       <h2 className="text-4xl font-bold mb-8">{title}</h2>
       {children}
-    </section>
+    </section> 
   );
 }
 function Skills() {
